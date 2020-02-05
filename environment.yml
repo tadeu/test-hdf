@@ -1,0 +1,4 @@
+name: test-hdf
+dependencies:
+  - conda-forge::hdf5 >=1.10.6
+  - conda-forge::cmake >=1.14
